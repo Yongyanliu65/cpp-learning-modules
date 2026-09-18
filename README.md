@@ -79,6 +79,16 @@ Read **`instructor-guide.md`** before adapting the tasks or increasing difficult
 
 These files are designed to be administered in sequence. Reading the correction and scoring files before taking the baseline or delayed-transfer assessment can contaminate the evidence. If possible, have another person administer the module.
 
+### Try Assessment #1 Yourself
+
+Want to try it yourself?
+
+1. Open the Assessment file only.
+2. Complete the assessment within 90 minutes without AI assistance.
+3. Preserve your first answers.
+4. After finishing, compare your reasoning with the First Response and Error Analysis.
+5. Do not treat the provided response as an answer key; it is one learner's first attempt and contains errors.
+
 ## Module 1: What is being assessed?
 
 M1 targets a bounded set of foundational relationships:
