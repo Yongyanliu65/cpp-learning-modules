@@ -238,3 +238,33 @@ MIT License. See `LICENSE`.
 **Version:** v0.1  
 **Release stage:** Early pilot / instructional prototype  
 **Last updated:** September 2026
+
+## Try It Yourself
+
+Use the materials in this order:
+
+1. Open the **Exercise** file only and complete it independently.
+2. Preserve your first answers, including mistakes.
+3. After finishing, compare your work with the **Original Response** and **Error Analysis**.
+4. Identify what you understood independently, what you corrected, and what remains unclear.
+5. Use different code for the next test rather than repeating the same exercise.
+
+### Self-Evaluation
+
+For each target concept, use one of these labels:
+
+- **Independent** — correct and I can explain why without help.
+- **Correct but Unstable** — correct, but my explanation is incomplete or uncertain.
+- **Corrected** — initially wrong, but I can identify and explain the error.
+- **Not Yet Stable** — I still confuse the concept.
+- **Not Tested** — this exercise did not provide enough evidence.
+
+A correct answer does not automatically show that the knowledge will transfer.
+
+The next question is not:
+
+> Can I do the same exercise correctly now?
+
+It is:
+
+> **Can I use the corrected knowledge when the code and support change?**
